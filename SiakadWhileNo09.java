@@ -31,7 +31,7 @@ public class SiakadWhileNo09 {
             System.out.println("Nilai Mahasiswa ke-" + (i + 1) + " adalah B");
         } else if (nilai > 60 && nilai <= 65) {
             System.out.println("Nilai Mahasiswa ke-" + (i + 1) + " adalah C+");
-        } else if (nilai > 50 && nilai <= 60 ) 
+        } else if (nilai > 50 && nilai <= 60 ) {
             System.out.println("Nilai Mahasiswa ke-" + (i + 1) + " adalah C");
         } else if (nilai > 39 && nilai <= 50) {
             System.out.println("Nilai Mahasiswa ke-" + (i + 1) + " adalah D");
@@ -40,5 +40,5 @@ public class SiakadWhileNo09 {
         }
         i++;
     }
-    
+} 
 }
